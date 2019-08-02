@@ -1,5 +1,6 @@
 language: generic
-dist: xenial
+dist: bionic
+compiler: gcc
 
 install:
   # Check dead links
